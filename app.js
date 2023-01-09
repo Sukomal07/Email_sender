@@ -10,7 +10,7 @@ let transport = mailer.createTransport({
 
 let message = {
     from:'hypersukomal@gmail.com',
-    to:'haren0610@gmail.com',
+    to:'hypersukomal@gmail.com',
     subject:'Testing Email using Node.js',
     text:'Thia mail is sending from Node.js'
 }
